@@ -1,11 +1,8 @@
-/*
+; You will have to open this file in HxD
+; and get the hex by clicking on Copy->as C
+; After doint that paste the code into the
+; variable in the cpp file.
 
-You will have to open this file in HxD
-and get the hex by clicking on Copy->as C
-After doint that paste the code into the
-variable in the cpp file.
-
-*/
 
 BITS    16
 ORG     0x7c00
